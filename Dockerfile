@@ -1,1 +1,1 @@
-docker pull ubuntu-latest
+docker pull ubuntu
